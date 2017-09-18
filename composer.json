@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "SuNong\\Stock\\": "src/",
-            "SuNong\\Stock\\Instock": "src/instock"
+            "SuNong\\Stock\\Instock\\": "src/instock"
         }
     }
 }
